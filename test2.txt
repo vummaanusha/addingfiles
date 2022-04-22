@@ -1,0 +1,21 @@
+ading files
+adding files:
+:q
+ls
+
+:q
+:x
+:wq
+
+/
+/q
+ex
+
+exit
+clear
+https://github.com/vummaanusha/addingfiles.gitquit
+quit
+
+
+clear
+gitquit
